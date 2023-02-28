@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIWritingDataTextFile.dll"</Assembly>
+		<AddInId>96B6A5C3-3052-45C0-836A-848B73001F2A</AddInId>
+		<FullClassName>RevitAPIWritingDataTextFile.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение и запись данных в файл для Revit</Text>
+	</AddIn>
+</RevitAddIns>
